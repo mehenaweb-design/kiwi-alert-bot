@@ -35,4 +35,4 @@ async function checkOrders() {
   }
 }
 
-setInterval(checkOrders, 5000);
+setInterval(checkOrders, 30000);
